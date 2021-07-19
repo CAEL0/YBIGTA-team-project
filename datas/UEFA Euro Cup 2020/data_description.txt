@@ -1,0 +1,31 @@
+All match results from The UEFA Euro Cup 2020 in one CSV file.
+
+stage
+: Competition Fase/Stage. Eg: Final, Semi-finals, and etc.
+
+date
+: When the match happened
+
+pens
+: If the match ends with penaltis or normal time.
+
+pens_home_score
+: In case of penaltis, the team home scores.
+
+pens_away_score
+: In case of penaltis, the team away scores.
+
+team_name_home
+: The team home name.
+
+team_name_away
+: The team away name.
+
+team_home_score
+: The team home's scores.
+
+team_away_score
+: The team away's scores.
+
+possession_home
+: Ball possession for the team home.
